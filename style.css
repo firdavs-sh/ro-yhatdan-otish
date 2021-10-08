@@ -1,0 +1,43 @@
+label {
+    font-size: 30px;
+    font-family: monospace;
+}
+
+input {
+    font-size: 30px;
+    font-family: monospace;
+    color: #389894;
+}
+
+body {
+    background-color: #389894;
+    color: #ffffff;
+}
+
+.ruyxat {
+    font-size: 30px;
+    background-color: #389894;
+    border-radius: 20px;
+    color: #ffffff;
+    width: 300px;
+}
+
+.ruyxat:hover {
+    font-size: 30px;
+    background-color: #e94669;
+    border-radius: 20px;
+    color: #ffffff;
+    width: 300px;
+    border-bottom-width: 10px;
+}
+.bugun{
+    width: 500px;
+    height: 600px;
+    background-color: bisque;
+    border-radius: 10px;
+    border: rgba(211, 13, 218, 0);
+}
+input.parol_uchun{
+    width: 20px;
+    height: 20px;
+}
